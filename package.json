@@ -1,0 +1,15 @@
+{
+  "name": "fullproject",
+  "version": "1.0.0",
+  "description": "a backend in at youtube chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "pavan",
+  "license": "ISC"
+}
