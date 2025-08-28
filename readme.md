@@ -1,6 +1,6 @@
 chai aur backend series
  this is video series on backend
-
+USE ASYNC AWAIT TRY CATCH FOR ENTIRE PROJECT 
  step 1: 
  -->Preparing SetUp in terminal npm init and starting point is index.js
  -->Now understand the package.json
